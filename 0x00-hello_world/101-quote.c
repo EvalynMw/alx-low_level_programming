@@ -2,6 +2,9 @@
 
 /**
  * Main  - program that print exactly and that piece of art is useful
+ *
+ * Description: using the main function
+ * this program prints "and that piece of art is useful 
  * Return: Always 1
  */
 int main(void)
