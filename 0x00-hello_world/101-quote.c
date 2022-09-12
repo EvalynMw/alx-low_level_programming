@@ -1,10 +1,9 @@
 #include  <unistd.h>
 
 /**
- * Main  - program that print exactly and that piece of art is useful
- *
+ * main  -  prints a text
  * Description: using the main function
- * this program prints "and that piece of art is useful 
+ * this program prints "And this piece of art is useful
  * Return: Always 1
  */
 int main(void)
