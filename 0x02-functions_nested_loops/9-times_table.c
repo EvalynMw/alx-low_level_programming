@@ -2,6 +2,7 @@
 
 /**
  * times_tables - Prints the 9 times table, starting with 0.
+ * @n: is the int that will use for the argument of the function
  */
 void times_table(void)
 {
